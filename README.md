@@ -1,6 +1,6 @@
 # ML Based Enhanced Road Safety
 
-Our project, undertaken as part of CMPT 733 - Big Data Lab II, aims to revolutionize road safety and efficiency by harnessing the power of machine learning and data analysis. We are a dedicated team of students from Simon Fraser University, comprising Midhun Jisha Manoj, Risheek Sood, and Shaik Sohail Hasan, working towards a safer and more efficient urban transportation system.
+Our project, undertaken as part of CMPT 733 - Big Data Lab II, aims to revolutionize road safety and efficiency by harnessing the power of machine learning and data analysis. This project aims to work towards a safer and more efficient urban transportation system.
 
 ### Website Video:  [Click here for Road Safety Website Walkthrough](https://www.youtube.com/watch?v=wa_gxY8OSuE)
 
